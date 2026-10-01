@@ -1,0 +1,10 @@
+/hclq
+*.exe
+*.test
+*.out
+vendor/
+go.work
+go.work.sum
+.env
+.env.*
+.DS_Store
